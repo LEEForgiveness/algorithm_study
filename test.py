@@ -9,7 +9,7 @@ def dfs(graph, v, visited):
 n = int(input())
 m = int(input())
 
-graph = [[0] * (n + 1) for _ in (n+1)]
+graph = [[0] * (n + 1) for _ in range(n+1)]
 visited = [False] * (n + 1)
 
 for _ in range(m):
