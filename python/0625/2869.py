@@ -3,11 +3,9 @@ A, B, V = map(int, input().split())
 temp = (V - B) % (A - B)
 
 if temp == 0:
-    print((V - B) //)
+    print((V - B) // (A - B))
 else:
-    temp += 0
-
-print(temp)
+    print((V - B) // (A - B) + 1)
 
 # (A - B) * (i - 1) + A >= V
 # i - 1 >= V - A / (A - B)
