@@ -1,6 +1,22 @@
 import java.util.ArrayList;
 import java.util.List;
+// 1
+// 2 3
 
+// 1
+// 2 6
+// 3 4 5
+
+// 1
+// 2 9
+// 3 10 8
+// 4 5 6 7
+
+// 1
+// 2 12
+// 3 13 11
+// 4 14 15 10
+// 5 6 7 8 9
 class Solution {
 	public static List<Integer> solution(int n) {
 		List<Integer> answer = new ArrayList<>();
@@ -14,9 +30,10 @@ class Solution {
 
 		for (int i = 0; i < n; i++){
 			top[i][0] = i + 1;
-		}
+			if(i == n - 1){
 
-		//todo https://school.programmers.co.kr/learn/courses/30/lessons/68645 완성
+			}
+		}
 
 		return answer;
 	}
