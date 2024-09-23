@@ -7,18 +7,18 @@ class Solution {
     public static int solution(int[][] dots) {
         int answer = 0;
 
-        float t1 = (dots[0][1] - dots[1][1]) / (dots[0][0] - dots[1][0]);
-        float t2 = (dots[2][1] - dots[3][1]) / (dots[2][0] - dots[3][0]);
+        float t1 = (float) (dots[0][1] - dots[1][1]) / (float) (dots[0][0] - dots[1][0]);
+        float t2 = (float) (dots[2][1] - dots[3][1]) / (float) (dots[2][0] - dots[3][0]);
         if(t1 == t2)
             return 1;
 
-        t1 = (dots[0][1] - dots[2][1]) / (dots[0][0] - dots[2][0]);
-        t2 = (dots[1][1] - dots[3][1]) / (dots[1][0] - dots[3][0]);
+        t1 = (float) (dots[0][1] - dots[2][1]) / (float) (dots[0][0] - dots[2][0]);
+        t2 = (float) (dots[1][1] - dots[3][1]) / (float) (dots[1][0] - dots[3][0]);
         if(t1 == t2)
             return 1;
 
-        t1 = (dots[0][1] - dots[3][1]) / (dots[0][0] - dots[3][0]);
-        t2 = (dots[1][1] - dots[2][1]) / (dots[1][0] - dots[2][0]);
+        t1 = (float) (dots[0][1] - dots[3][1]) / (float) (dots[0][0] - dots[3][0]);
+        t2 = (float) (dots[1][1] - dots[2][1]) / (float) (dots[1][0] - dots[2][0]);
         if(t1 == t2)
             return 1;
 
