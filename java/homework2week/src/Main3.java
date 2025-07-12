@@ -30,3 +30,5 @@ public class Main3 {
         getAllWaysByDoingPlusOrMinus(list, currentIndex + 1, currentSum - list[currentIndex]);
     }
 }
+
+//혼자 새로 작성해보기
