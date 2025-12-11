@@ -1,0 +1,66 @@
+import java.util.*;
+
+public class Main2 {
+
+    public static void main(String[] args) {
+        System.out.println(
+            "정답 = [-7, -1, 5, 6, 9, 10, 11, 40] / 현재 풀이 값 = " + Arrays.toString(
+                merge(new int[]{-7, -1, 9, 40},
+                    new int[]{5, 6, 10, 11})));
+        System.out.println(
+            "정답 = [-1, 2, 3, 5, 10, 40, 78, 100] / 현재 풀이 값 = " + Arrays.toString(
+                merge(new int[]{-1, 2, 3, 5,
+                    40}, new int[]{10, 78, 100})));
+        System.out.println(
+            "정답 = [-1, -1, 0, 1, 6, 9, 10] / 현재 풀이 값 = " + Arrays.toString(
+                merge(new int[]{-1, -1, 0}, new int[]{
+                    1, 6, 9, 10})));
+        System.out.println("======mergeSort======");
+        System.out.println("정답 = [-7, -1, 5, 6, 9, 10, 11, 40] / 현재 풀이 값 = " + Arrays.toString(
+            mergeSort(new int[]{-7, -1, 9, 40, 5, 6, 10, 11})));
+        System.out.println("정답 = [-1, 2, 3, 5, 10, 40, 78, 100] / 현재 풀이 값 = " + Arrays.toString(
+            mergeSort(new int[]{-1, 2, 3, 5, 40, 10, 78, 100})));
+        System.out.println("정답 = [-1, -1, 0, 1, 6, 9, 10] / 현재 풀이 값 = " + Arrays.toString(
+            mergeSort(new int[]{-1, -1, 0, 1, 6, 9, 10})));
+    }
+
+    private static int[] merge(int[] numbers, int[] numbers2) {
+        int i = 0;
+        int j = 0;
+        int index = 0;
+        int[] result = new int[numbers.length + numbers2.length];
+        while (i != numbers.length && j != numbers2.length) {
+            if (numbers[i] < numbers2[j]) {
+                result[index++] = numbers[i];
+                i++;
+            } else {
+                result[index++] = numbers2[j];
+                j++;
+            }
+        }
+
+        if (i == numbers.length) {
+            while (j != numbers2.length) {
+                result[index++] = numbers2[j];
+                j++;
+            }
+        } else {
+            while (i != numbers.length) {
+                result[index++] = numbers[i];
+                i++;
+            }
+        }
+
+        return result;
+    }
+
+    private static int[] mergeSort(int[] numbers) {
+        if (numbers.length <= 1) {
+            return numbers;
+        }
+        int mid = numbers.length / 2;
+        int[] leftArray = mergeSort(Arrays.copyOfRange(numbers, 0, mid));
+        int[] rightArray = mergeSort(Arrays.copyOfRange(numbers, mid, numbers.length));
+        return merge(leftArray, rightArray);
+    }
+}

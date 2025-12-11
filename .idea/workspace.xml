@@ -5,100 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed11d83d-cbb9-457b-b2d7-24de336a1539" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0416/01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0416/02-01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0416/02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0416/03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0416/04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0416/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0416/naturalcabbage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0418/04.18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0418/11726.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0418/11727.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/120876.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/2075.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/2133.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/2438.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/cola.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/demon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/process.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/11000.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/11047.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/1931.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/27256.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/2839.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/42862.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/5585.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0425/1157.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0425/1181.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0425/72410.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0425/92334.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0430/42576.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0430/poketmon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0502/1018.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0502/1065.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0502/2231.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0502/2798.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0502/42839.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0502/4673.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/1012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/1206.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/1937.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/2178.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/2606.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/7576.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0507/kruskal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0507/unionfind.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0509/1753.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0509/Dijikstra.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/12312322.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/3_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/3_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/.idea/0528.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/2606BFS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0528/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/.idea/java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/Miro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/.idea/java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/Miro$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/out/production/java/Miro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0602/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0602/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0603/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0603/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0603/2-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0603/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0604/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/sort/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,17 +16,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2h6JE7LwC9nb3cMC4LjNA5tDWnL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python" />
-    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunManager" selected="Python.2839">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/grang/algorithm_study"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Miro">
     <configuration name="Miro (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Miro" />
       <method v="2">
@@ -134,27 +51,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0528" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0528/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="2839" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -177,16 +73,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0528" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0528/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.2" />
-      <item itemvalue="Python.2839" />
+      <item itemvalue="Application.Miro" />
+      <item itemvalue="Application.Miro (1)" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.2839" />
-        <item itemvalue="Python.2" />
-      </list>
-    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -215,6 +133,13 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
