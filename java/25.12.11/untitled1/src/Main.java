@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -55,10 +53,9 @@ public class Main {
                 }
             });
 
-            int count = 0;
-            while (count < 2){
-                result.add(list.get(count)[0]);
-                count++;
+            int limit = Math.min(2, list.size());
+            for (int i = 0; i < limit; i++) {
+                result.add(list.get(i)[0]);
             }
 
             System.out.println(result.toString());
